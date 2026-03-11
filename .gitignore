@@ -1,0 +1,5 @@
+runs/
+Fruits-detection/train
+Fruits-detection/test
+Fruits-detection/valid
+yolov8n.pt
