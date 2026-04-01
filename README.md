@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 ## Run
 
-python detect.py
+python runme.py
